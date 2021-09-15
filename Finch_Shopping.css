@@ -1,0 +1,61 @@
+.header_bg {
+    background-image: url("Black\ Header\ 1.png");
+    height: 270px;
+    margin-bottom: 0;
+}
+.bi {
+    vertical-align: -.125em;
+    fill: currentColor;
+}
+.navbar {
+    margin-bottom: 0;
+    border-radius: 0;
+    border: 0px;
+}
+.card-body {
+    background-color: #212529;
+}
+.card-img-top {
+    height: 420px;
+}
+.contact_bg {
+    background-image: url("Contact_Us.png");
+    height: 600px;
+}
+.form_contact {
+    padding-top: 240px;
+}
+footer {
+    color: #d1a595;
+    height: 100px;
+    padding-top: 10px;
+    background-color: #212529;
+}
+.footer_icon {
+    color: #d1a595;
+    padding-left: 50px;
+    padding-top: 10px;
+}
+
+footer div p {
+    text-transform: uppercase;
+    font-size: 10px;
+}
+footer a {
+    color: #d1a595;
+    text-decoration: none;
+    font-size: 12px;
+}
+.nav_color {
+    color: #d1a595;
+}
+body {
+    margin: 0;
+    background-color: #0f0e0c;
+    color: white;
+}
+/*PRODUCT LIST TABLE*/
+td>img {
+    width: 150px;
+    height: 200px;
+}
